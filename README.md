@@ -10,9 +10,9 @@ First step before running the code
 
 This allows for downloading of all the dependencies which is required to run the porject
 
-All the classes shuch as client , policies , claim are present in 
+All the classes such as client , policies , claim are present in 
 ```
-java.com.example.demo
+src/main/java.com.example.demo
 ```
 Once opened run the foloowing class
 ```
