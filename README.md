@@ -42,3 +42,12 @@ use the JSON as an example saved in demo postman_collection to push it to the
 
 Embeeded service system ( USE Postman service in VSC or download the Postman GUI )
 
+# Client
+
+<img src = "https://github.com/vrahulrvce/insurance_management_platform/blob/master/pics_output/1.PNG" alt = "client" >
+
+# Policies
+
+<img src ="https://github.com/vrahulrvce/insurance_management_platform/blob/master/pics_output/2.PNG" alt = "policies">
+
+
