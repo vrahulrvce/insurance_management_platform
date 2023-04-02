@@ -8,7 +8,7 @@ First step before running the code
   run pom.xml
 ```
 
-This allows for downloading of all the dependencies which is required to run the porject
+This allows for downloading of all the dependencies which is required to run the project
 
 All the classes such as client , policies , claim are present in 
 ```
